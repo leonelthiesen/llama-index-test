@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 python-dotenv = "*"
 llama-index = "*"
+llama-index-readers-database = "*"
+sqlalchemy-monetdb = "*"
 
 [dev-packages]
 
